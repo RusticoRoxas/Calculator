@@ -1,0 +1,9 @@
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\bin\Debug\ROXAS_proj2.exe.config
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\bin\Debug\ROXAS_proj2.exe
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\bin\Debug\ROXAS_proj2.pdb
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.csprojResolveAssemblyReference.cache
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.Form1.resources
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.Properties.Resources.resources
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.csproj.GenerateResource.Cache
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.exe
+c:\users\t1-1920\documents\visual studio 2015\Projects\ROXAS_proj2\ROXAS_proj2\obj\Debug\ROXAS_proj2.pdb
